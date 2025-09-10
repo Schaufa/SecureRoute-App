@@ -8,7 +8,7 @@ Project Outline
 - Front-End: Kotlin, Jetpack Compose, Material Design
 - Back-End: SQLite, Android Keystore, optional Firebase
 - Functionality: Offline maps, VPN toggle, encrypted history
-- Design: Wireframes include Home, Planner, Settings, History
+- Design: Wireframes include Home, Messages, Settings, Permissions
 
 GitHub Wiki
 Visit the [Wiki](https://github.com/Schaufa/SecureRoute-App/wiki) for detailed module breakdowns and wireframes.
